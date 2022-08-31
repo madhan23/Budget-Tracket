@@ -1,0 +1,15 @@
+.btn-section {
+  padding: 6px;
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.btn-section:hover {
+  background: linear-gradient(to right, rgb(242, 113, 33), rgb(233, 64, 87));
+  color: #fff;
+}
+.icon-btn {
+  font-size: 23px;
+}
